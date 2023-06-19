@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mwesigwa Joshua Mudde</h1>
 <h3 align="center">A passionate Full-Stack developer from Uganda</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muddejosh" alt="muddejosh" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Blockchain Counterfeit Drug Detection System](https://github.com/Muddejosh/supply-chain-truffle-react-main)
