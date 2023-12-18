@@ -3,17 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Blockchain Counterfeit Drug Detection System](https://github.com/Muddejosh/supply-chain-truffle-react-main)
-
 - 🌱 I’m currently learning **IBM Certified Full-Stack Software Developer**
-
-- 👯 I’m looking to collaborate on **USSD and SMS FarmersConnect System**
-
-- 🤝 I’m looking for help with [Flutter WebView Application](https://github.com/Muddejosh/flutter_Spera)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muddejosh](https://github.com/Muddejosh)
 
-- 💬 Ask me about **Networking,Docker,CyberSecurity,React,Node.js**
+- 💬 Ask me about **CyberSecurity, React.js, Node.js, Machine Learning and Python**
 
 - 📫 How to reach me **joshmudde@gmail.com**
 
