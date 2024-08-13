@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **IBM Certified Full-Stack Software Developer**
+- 🌱 I’m currently learning **Fintech, Finance and Banking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muddejosh](https://github.com/Muddejosh)
 
