@@ -1,1 +1,1 @@
-I’m into **Cloud, Fintech, Finance and Banking**
+I’m into **Finance and Banking**
